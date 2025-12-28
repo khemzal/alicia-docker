@@ -1,0 +1,362 @@
+08:59:19:251 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+08:59:19:251 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:59:19:805 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:59:20:250 [info] [Thread 1] Item registry loaded 745 items
+08:59:20:274 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:59:20:276 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:59:20:276 [info] [Thread 1] Server started up in 1040ms
+08:59:20:276 [info] [Thread 1] TTY not available
+08:59:20:276 [info] [Thread 1] Not running in an interactive mode
+08:59:20:276 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+08:59:20:276 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:59:20:279 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:59:20:279 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:59:20:279 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:59:20:280 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:59:39:667 [debug] [Thread 1] Shutting down because of SIGTERM
+08:59:39:667 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:59:39:684 [error] [Thread 16] Error in the server accept loop: Network exception 0x125
+08:59:39:684 [error] [Thread 12] Error in the server accept loop: Network exception 0x125
+08:59:39:684 [error] [Thread 15] Error in the server accept loop: Network exception 0x125
+08:59:39:684 [debug] [Thread 1] Thread for 'race director' finished
+08:59:39:684 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:59:39:684 [debug] [Thread 1] Thread for 'ranch director' finished
+08:59:39:684 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:59:39:684 [debug] [Thread 1] Thread for 'messenger director' finished
+08:59:39:684 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:59:39:684 [debug] [Thread 1] Thread for 'lobby director' finished
+08:59:39:684 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:59:39:686 [debug] [Thread 1] Thread for 'data director' finished
+09:00:43:953 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+09:00:43:953 [info] [Thread 1] Base directory: /var/lib/alicia-server
+09:00:44:073 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+09:00:44:322 [info] [Thread 1] Item registry loaded 745 items
+09:00:44:349 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+09:00:44:352 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+09:00:44:352 [info] [Thread 1] Server started up in 401ms
+09:00:44:353 [info] [Thread 1] TTY not available
+09:00:44:353 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+09:00:44:353 [info] [Thread 1] Not running in an interactive mode
+09:00:44:353 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+09:00:44:356 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+09:00:44:356 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+09:00:44:356 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+09:00:44:357 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+11:10:31:427 [debug] [Thread 1] Shutting down because of SIGTERM
+11:10:31:428 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+11:10:31:433 [debug] [Thread 1] Thread for 'race director' finished
+11:10:31:433 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+11:10:31:433 [debug] [Thread 1] Thread for 'ranch director' finished
+11:10:31:433 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+11:10:31:433 [debug] [Thread 1] Thread for 'messenger director' finished
+11:10:31:433 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+11:10:31:433 [debug] [Thread 1] Thread for 'lobby director' finished
+11:10:31:433 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+11:10:31:444 [debug] [Thread 1] Thread for 'data director' finished
+11:10:34:486 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+11:10:34:486 [info] [Thread 1] Base directory: /var/lib/alicia-server
+11:10:34:591 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+11:10:34:772 [info] [Thread 1] Item registry loaded 745 items
+11:10:34:795 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+11:10:34:798 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+11:10:34:799 [debug] [Thread 11] Ranch server listening on 0.0.0.0:10031
+11:10:34:799 [info] [Thread 1] Server started up in 318ms
+11:10:34:799 [info] [Thread 1] TTY not available
+11:10:34:799 [info] [Thread 1] Not running in an interactive mode
+11:10:34:799 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+11:10:34:805 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+11:10:34:805 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+11:10:34:805 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:07:56:722 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:07:56:722 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:07:57:212 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:07:57:862 [info] [Thread 1] Item registry loaded 745 items
+12:07:57:918 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:07:57:920 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:07:57:920 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+12:07:57:920 [info] [Thread 1] Server started up in 1265ms
+12:07:57:920 [info] [Thread 1] TTY not available
+12:07:57:920 [info] [Thread 1] Not running in an interactive mode
+12:07:57:920 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+12:07:57:958 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:07:57:958 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:07:57:958 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:07:57:978 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:09:39:623 [debug] [Thread 16] Client 0 connected to the lobby server from 172.18.0.1
+12:09:39:680 [info] [Thread 8] Load for data of user 'test' requested
+12:09:39:733 [error] [Thread 7] Exception retrieving user 'test' from the primary data source: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - invalid literal; last read: '/'
+12:09:49:684 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:09:49:684 [error] [Thread 8] User data for 'test' not available
+12:10:39:979 [warning] [Thread 16] Client 0 ('test') has reached a network timeout and is being disconnected
+12:10:39:979 [debug] [Thread 16] Client 0 disconnected from the lobby server
+12:10:39:979 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection aborted by the server
+12:10:50:753 [debug] [Thread 1] Shutting down because of SIGTERM
+12:10:50:753 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+12:10:50:769 [error] [Thread 16] Error in the server accept loop: Network exception 0x125
+12:10:50:770 [debug] [Thread 1] Thread for 'race director' finished
+12:10:50:770 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+12:10:50:770 [debug] [Thread 1] Thread for 'ranch director' finished
+12:10:50:770 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+12:10:50:770 [debug] [Thread 1] Thread for 'messenger director' finished
+12:10:50:770 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+12:10:50:770 [debug] [Thread 1] Thread for 'lobby director' finished
+12:10:50:770 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+12:10:50:773 [debug] [Thread 1] Thread for 'data director' finished
+12:10:58:985 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:10:58:985 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:10:59:068 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:10:59:175 [info] [Thread 1] Item registry loaded 745 items
+12:10:59:199 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:10:59:203 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:10:59:203 [info] [Thread 1] Server started up in 220ms
+12:10:59:203 [info] [Thread 1] TTY not available
+12:10:59:203 [info] [Thread 1] Not running in an interactive mode
+12:10:59:203 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+12:10:59:204 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+12:10:59:206 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:10:59:206 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:10:59:206 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:10:59:207 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:13:05:324 [debug] [Thread 16] Client 0 connected to the lobby server from 172.18.0.1
+12:13:05:379 [info] [Thread 8] Load for data of user 'test' requested
+12:13:05:427 [error] [Thread 7] Exception retrieving user 'test' from the primary data source: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - invalid literal; last read: '/'
+12:13:15:382 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:13:15:388 [error] [Thread 8] User data for 'test' not available
+12:14:06:220 [warning] [Thread 16] Client 0 ('test') has reached a network timeout and is being disconnected
+12:14:06:220 [debug] [Thread 16] Client 0 disconnected from the lobby server
+12:14:06:220 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection aborted by the server
+12:14:48:336 [debug] [Thread 16] Client 1 connected to the lobby server from 172.18.0.1
+12:14:48:388 [info] [Thread 8] Load for data of user 'test' requested
+12:14:58:391 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:14:58:391 [error] [Thread 8] User data for 'test' not available
+12:15:49:228 [warning] [Thread 16] Client 1 ('test') has reached a network timeout and is being disconnected
+12:15:49:228 [debug] [Thread 16] Client 1 disconnected from the lobby server
+12:15:49:228 [debug] [Thread 16] Client 1 is disconnecting because of read loop exception: Connection aborted by the server
+12:21:06:659 [debug] [Thread 1] Shutting down because of SIGTERM
+12:21:06:659 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+12:21:06:669 [debug] [Thread 1] Thread for 'race director' finished
+12:21:06:669 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+12:21:06:669 [debug] [Thread 1] Thread for 'ranch director' finished
+12:21:06:669 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+12:21:06:669 [debug] [Thread 1] Thread for 'messenger director' finished
+12:21:06:671 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+12:21:06:671 [debug] [Thread 1] Thread for 'lobby director' finished
+12:21:06:671 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+12:21:06:675 [debug] [Thread 1] Thread for 'data director' finished
+12:21:07:550 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:21:07:550 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:21:07:658 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:21:07:821 [info] [Thread 1] Item registry loaded 745 items
+12:21:07:850 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:21:07:853 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:21:07:855 [debug] [Thread 11] Ranch server listening on 0.0.0.0:10031
+12:21:07:855 [info] [Thread 1] Server started up in 306ms
+12:21:07:855 [info] [Thread 1] TTY not available
+12:21:07:855 [info] [Thread 1] Not running in an interactive mode
+12:21:07:855 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+12:21:07:857 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:21:07:857 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:21:07:857 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:21:07:858 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:21:20:920 [debug] [Thread 16] Client 0 connected to the lobby server from 172.18.0.1
+12:21:20:974 [info] [Thread 8] Load for data of user 'test' requested
+12:21:21:016 [error] [Thread 7] Exception retrieving user 'test' from the primary data source: User file '/var/lib/alicia-server/data/users/test.json' not accessible
+12:21:30:980 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:21:30:980 [error] [Thread 8] User data for 'test' not available
+12:22:05:124 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+12:22:05:124 [debug] [Thread 16] Client 0 disconnected from the lobby server
+12:22:09:399 [debug] [Thread 1] Shutting down because of SIGTERM
+12:22:09:399 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+12:22:09:416 [debug] [Thread 1] Thread for 'race director' finished
+12:22:09:416 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+12:22:09:416 [debug] [Thread 1] Thread for 'ranch director' finished
+12:22:09:416 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+12:22:09:416 [debug] [Thread 1] Thread for 'messenger director' finished
+12:22:09:416 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+12:22:09:416 [debug] [Thread 1] Thread for 'lobby director' finished
+12:22:09:416 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+12:22:09:416 [debug] [Thread 1] Thread for 'data director' finished
+12:22:10:369 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:22:10:369 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:22:10:442 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:22:10:630 [info] [Thread 1] Item registry loaded 745 items
+12:22:10:656 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:22:10:658 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:22:10:661 [debug] [Thread 11] Ranch server listening on 0.0.0.0:10031
+12:22:10:662 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:22:10:662 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:22:10:662 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:22:10:662 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:22:10:664 [debug] [Thread 14] Race server listening on 0.0.0.0:10032
+12:22:10:664 [info] [Thread 1] Server started up in 296ms
+12:22:10:665 [info] [Thread 1] TTY not available
+12:22:10:667 [info] [Thread 1] Not running in an interactive mode
+12:22:24:736 [debug] [Thread 13] Client 0 connected to the lobby server from 172.18.0.1
+12:22:24:783 [info] [Thread 8] Load for data of user 'test' requested
+12:22:24:826 [error] [Thread 7] Exception retrieving user 'test' from the primary data source: User file '/var/lib/alicia-server/data/users/test.json' not accessible
+12:22:34:801 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:22:34:801 [error] [Thread 8] User data for 'test' not available
+12:22:36:591 [debug] [Thread 13] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+12:22:36:591 [debug] [Thread 13] Client 0 disconnected from the lobby server
+12:22:55:452 [debug] [Thread 1] Shutting down because of SIGTERM
+12:22:55:452 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+12:22:55:466 [debug] [Thread 1] Thread for 'race director' finished
+12:22:55:466 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+12:22:55:466 [debug] [Thread 1] Thread for 'ranch director' finished
+12:22:55:467 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+12:22:55:467 [debug] [Thread 1] Thread for 'messenger director' finished
+12:22:55:467 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+12:22:55:467 [debug] [Thread 1] Thread for 'lobby director' finished
+12:22:55:467 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+12:22:55:470 [debug] [Thread 1] Thread for 'data director' finished
+12:22:56:328 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:22:56:328 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:22:56:396 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:22:56:507 [info] [Thread 1] Item registry loaded 745 items
+12:22:56:532 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:22:56:534 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:22:56:534 [info] [Thread 1] Server started up in 208ms
+12:22:56:534 [info] [Thread 1] TTY not available
+12:22:56:534 [info] [Thread 1] Not running in an interactive mode
+12:22:56:534 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+12:22:56:534 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+12:22:56:537 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:22:56:537 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:22:56:537 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:22:56:538 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:23:07:310 [debug] [Thread 16] Client 0 connected to the lobby server from 172.18.0.1
+12:23:07:361 [info] [Thread 8] Load for data of user 'test' requested
+12:23:07:398 [error] [Thread 7] Exception retrieving user 'test' from the primary data source: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - invalid literal; last read: '/'
+12:23:17:372 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:23:17:372 [error] [Thread 8] User data for 'test' not available
+12:23:20:405 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+12:23:20:406 [debug] [Thread 16] Client 0 disconnected from the lobby server
+12:27:29:411 [debug] [Thread 16] Client 1 connected to the lobby server from 172.18.0.1
+12:27:29:467 [info] [Thread 8] Load for data of user 'test' requested
+12:27:39:467 [warning] [Thread 7] Timeout reached loading data for user 'test': User test is not available
+12:27:39:473 [error] [Thread 8] User data for 'test' not available
+12:28:00:338 [debug] [Thread 1] Shutting down because of SIGTERM
+12:28:00:338 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+12:28:00:355 [debug] [Thread 1] Thread for 'race director' finished
+12:28:00:355 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+12:28:00:355 [debug] [Thread 1] Thread for 'ranch director' finished
+12:28:00:355 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+12:28:00:355 [debug] [Thread 1] Thread for 'messenger director' finished
+12:28:00:355 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+12:28:00:355 [debug] [Thread 1] Thread for 'lobby director' finished
+12:28:00:355 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+12:28:00:361 [debug] [Thread 1] Thread for 'data director' finished
+12:28:01:308 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:28:01:308 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:28:01:395 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:28:01:557 [info] [Thread 1] Item registry loaded 745 items
+12:28:01:586 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:28:01:589 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:28:01:590 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+12:28:01:590 [info] [Thread 1] Server started up in 283ms
+12:28:01:590 [info] [Thread 1] TTY not available
+12:28:01:590 [info] [Thread 1] Not running in an interactive mode
+12:28:01:591 [debug] [Thread 13] Race server listening on 0.0.0.0:10032
+12:28:01:592 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:28:01:592 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:28:01:592 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:28:01:595 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:28:14:712 [debug] [Thread 1] Shutting down because of SIGTERM
+12:28:14:712 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+12:28:14:720 [error] [Thread 15] Error in the server accept loop: Network exception 0x125
+12:28:14:720 [debug] [Thread 1] Thread for 'race director' finished
+12:28:14:720 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+12:28:14:720 [debug] [Thread 1] Thread for 'ranch director' finished
+12:28:14:720 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+12:28:14:720 [debug] [Thread 1] Thread for 'messenger director' finished
+12:28:14:720 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+12:28:14:720 [debug] [Thread 1] Thread for 'lobby director' finished
+12:28:14:720 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+12:28:14:729 [debug] [Thread 1] Thread for 'data director' finished
+12:28:15:560 [info] [Thread 1] Running dedicated Alicia server vaef1332 (rev: aef1332).
+12:28:15:560 [info] [Thread 1] Base directory: /var/lib/alicia-server
+12:28:15:632 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+12:28:15:843 [info] [Thread 1] Item registry loaded 745 items
+12:28:15:864 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+12:28:15:866 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+12:28:15:866 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+12:28:15:866 [info] [Thread 1] Server started up in 308ms
+12:28:15:866 [info] [Thread 1] TTY not available
+12:28:15:866 [info] [Thread 1] Not running in an interactive mode
+12:28:15:866 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+12:28:15:869 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+12:28:15:869 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+12:28:15:869 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+12:28:15:870 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+12:28:42:592 [debug] [Thread 16] Client 0 connected to the lobby server from 172.18.0.1
+12:28:42:634 [info] [Thread 8] Load for data of user 'test' requested
+12:28:42:678 [debug] [Thread 8] User 'test' succeeded in authentication
+12:28:42:678 [info] [Thread 8] User 'test' (client 0) logged in
+12:28:56:200 [info] [Thread 16] User 'test' created a character (1) with the name 'Justice'
+12:29:17:747 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+12:29:17:748 [debug] [Thread 16] Client 0 disconnected from the lobby server
+12:29:17:752 [info] [Thread 8] User 'test' (client 0) logged out
+12:29:26:063 [debug] [Thread 16] Client 1 connected to the lobby server from 172.18.0.1
+12:29:26:138 [info] [Thread 8] Load for character data of user 'test' requested
+12:29:26:158 [debug] [Thread 8] User 'test' succeeded in authentication
+12:29:26:158 [info] [Thread 8] User 'test' (client 1) logged in
+12:29:34:654 [debug] [Thread 12] Client 0 connected to the ranch server from 172.18.0.1
+12:29:40:801 [info] [Thread 12] User 'test' changed the name of a horse (1) from '' to 'WiiMusic'
+14:12:49:860 [debug] [Thread 12] [Justice's ranch] test (Justice): /give horse
+14:12:53:173 [debug] [Thread 12] [Justice's ranch] test (Justice): give horse
+16:32:33:065 [info] [Thread 16] Room 1 created by 'test' with the name ''
+16:32:33:089 [debug] [Thread 12] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+16:32:33:090 [info] [Thread 12] Client 0 disconnected from the ranch server
+16:32:33:090 [debug] [Thread 14] Client 0 connected to the race server from 172.18.0.1
+16:32:33:099 [info] [Thread 14] Player 'Justice' has created a room 1
+16:32:33:099 [warning] [Thread 14] Settings record for character 1 was not found, skipping role/gender assignment...
+16:33:09:090 [info] [Thread 14] Character 'Justice' has left the room 1
+16:33:09:090 [info] [Thread 14] Player 1 became the master of room 1 after the previous master left
+16:33:09:201 [debug] [Thread 14] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+16:33:09:202 [info] [Thread 14] Client 0 disconnected from the race server
+16:33:09:204 [debug] [Thread 12] Client 1 connected to the ranch server from 172.18.0.1
+16:46:09:844 [debug] [Thread 16] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+16:46:09:845 [debug] [Thread 16] Client 1 disconnected from the lobby server
+16:46:09:846 [debug] [Thread 12] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+16:46:09:846 [info] [Thread 12] Client 1 disconnected from the ranch server
+16:46:09:846 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+16:46:09:851 [info] [Thread 8] User 'test' (client 1) logged out
+16:48:32:847 [debug] [Thread 16] Client 2 connected to the lobby server from 172.18.0.1
+16:48:32:924 [debug] [Thread 8] User 'test' succeeded in authentication
+16:48:32:928 [info] [Thread 8] User 'test' (client 2) logged in
+16:48:50:490 [debug] [Thread 16] Client 2 is disconnecting because of read loop exception: Connection reset by the client
+16:48:50:496 [debug] [Thread 16] Client 2 disconnected from the lobby server
+16:48:50:514 [info] [Thread 8] User 'test' (client 2) logged out
+16:48:56:910 [debug] [Thread 16] Client 3 connected to the lobby server from 172.18.0.1
+16:48:56:987 [debug] [Thread 8] User 'test' succeeded in authentication
+16:48:56:988 [info] [Thread 8] User 'test' (client 3) logged in
+16:50:03:696 [debug] [Thread 16] Client 3 is disconnecting because of read loop exception: Connection reset by the client
+16:50:03:696 [debug] [Thread 16] Client 3 disconnected from the lobby server
+16:50:03:697 [info] [Thread 8] User 'test' (client 3) logged out
+16:50:12:510 [debug] [Thread 16] Client 4 connected to the lobby server from 172.18.0.1
+16:50:12:579 [debug] [Thread 8] User 'test' succeeded in authentication
+16:50:12:583 [info] [Thread 8] User 'test' (client 4) logged in
+16:50:24:167 [debug] [Thread 12] Client 2 connected to the ranch server from 172.18.0.1
+16:50:33:687 [debug] [Thread 12] Client 2 is disconnecting because of read loop exception: Connection reset by the client
+16:50:33:687 [debug] [Thread 16] Client 4 is disconnecting because of read loop exception: Connection reset by the client
+16:50:33:687 [info] [Thread 12] Client 2 disconnected from the ranch server
+16:50:33:687 [debug] [Thread 16] Client 4 disconnected from the lobby server
+16:50:33:688 [debug] [Thread 15] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+16:50:33:693 [info] [Thread 8] User 'test' (client 4) logged out
+16:51:08:686 [debug] [Thread 16] Client 5 connected to the lobby server from 172.18.0.1
+16:51:08:757 [debug] [Thread 8] User 'test' succeeded in authentication
+16:51:08:758 [info] [Thread 8] User 'test' (client 5) logged in
+16:51:17:017 [debug] [Thread 12] Client 3 connected to the ranch server from 172.18.0.1
+16:53:33:172 [debug] [Thread 16] Client 5 is disconnecting because of read loop exception: Connection reset by the client
+16:53:33:172 [debug] [Thread 12] Client 3 is disconnecting because of read loop exception: Connection reset by the client
+16:53:33:173 [debug] [Thread 15] Client 2 is disconnecting because of read loop exception: Connection reset by the client
+16:53:33:173 [info] [Thread 12] Client 3 disconnected from the ranch server
+16:53:33:173 [debug] [Thread 16] Client 5 disconnected from the lobby server
+16:53:33:177 [info] [Thread 8] User 'test' (client 5) logged out
+16:54:14:691 [debug] [Thread 16] Client 6 connected to the lobby server from 172.18.0.1
+16:54:14:753 [debug] [Thread 8] User 'test' succeeded in authentication
+16:54:14:754 [info] [Thread 8] User 'test' (client 6) logged in
+16:54:23:921 [debug] [Thread 12] Client 4 connected to the ranch server from 172.18.0.1
+16:58:40:072 [debug] [Thread 12] Client 4 is disconnecting because of read loop exception: Connection reset by the client
+16:58:40:072 [debug] [Thread 15] Client 3 is disconnecting because of read loop exception: Connection reset by the client
+16:58:40:072 [info] [Thread 12] Client 4 disconnected from the ranch server

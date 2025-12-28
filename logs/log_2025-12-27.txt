@@ -1,0 +1,67 @@
+13:52:36:456 [info] [Thread 1] Running dedicated Alicia server vb543b39 (rev: b543b39).
+13:52:36:456 [info] [Thread 1] Base directory: /var/lib/alicia-server
+13:52:36:688 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+13:52:37:008 [info] [Thread 1] Item registry loaded 745 items
+13:52:37:048 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+13:52:37:050 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+13:52:37:050 [info] [Thread 1] Server started up in 599ms
+13:52:37:050 [info] [Thread 1] TTY not available
+13:52:37:050 [info] [Thread 1] Not running in an interactive mode
+13:52:37:050 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+13:52:37:051 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+13:52:37:051 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+13:52:37:051 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+13:52:37:051 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+13:52:37:146 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+13:53:49:300 [debug] [Thread 13] Client 0 connected to the lobby server from 172.18.0.1
+13:53:49:363 [info] [Thread 8] Load for data of user 'test' requested
+13:53:49:430 [debug] [Thread 8] User 'test' (client 0) succeeded in authentication and was sent to the character creator
+13:54:13:520 [info] [Thread 13] User 'test' created a character (1) with the name 'Justice'
+13:54:19:706 [debug] [Thread 13] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+13:54:19:707 [debug] [Thread 13] Client 0 disconnected from the lobby server
+13:54:19:726 [info] [Thread 8] User 'test' (client 0) logged out
+13:54:27:580 [debug] [Thread 13] Client 1 connected to the lobby server from 172.18.0.1
+13:54:27:642 [info] [Thread 8] Load for character data of user 'test' requested
+13:54:27:660 [debug] [Thread 8] User 'test' succeeded in authentication
+13:54:27:660 [info] [Thread 8] User 'test' (client 1) logged in
+13:54:35:737 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+13:54:40:713 [info] [Thread 16] User 'test' changed the name of a horse (1) from '' to 'WiiMusic'
+14:08:56:619 [debug] [Thread 16] [Justice's ranch] test (Justice): //give horse
+14:09:30:093 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+14:09:30:093 [debug] [Thread 13] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+14:09:30:093 [debug] [Thread 11] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+14:09:30:093 [info] [Thread 16] Client 0 disconnected from the ranch server
+14:09:30:093 [debug] [Thread 13] Client 1 disconnected from the lobby server
+14:09:30:106 [info] [Thread 8] User 'test' (client 1) logged out
+14:09:46:325 [debug] [Thread 13] Client 2 connected to the lobby server from 172.18.0.1
+14:09:46:396 [debug] [Thread 8] User 'test' succeeded in authentication
+14:09:46:397 [info] [Thread 8] User 'test' (client 2) logged in
+14:10:02:326 [debug] [Thread 16] Client 1 connected to the ranch server from 172.18.0.1
+14:10:14:842 [info] [Thread 16] User 'test' changed the name of a horse (2) from '' to 'MyNewHorse'
+14:11:53:460 [debug] [Thread 11] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+14:11:53:460 [debug] [Thread 16] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+14:11:53:460 [debug] [Thread 13] Client 2 is disconnecting because of read loop exception: Connection reset by the client
+14:11:53:460 [info] [Thread 16] Client 1 disconnected from the ranch server
+14:11:53:460 [debug] [Thread 13] Client 2 disconnected from the lobby server
+14:11:53:467 [info] [Thread 8] User 'test' (client 2) logged out
+14:42:03:021 [debug] [Thread 13] Client 3 connected to the lobby server from 172.18.0.1
+14:42:03:085 [debug] [Thread 8] User 'test' succeeded in authentication
+14:42:03:087 [info] [Thread 8] User 'test' (client 3) logged in
+14:42:13:494 [debug] [Thread 16] Client 2 connected to the ranch server from 172.18.0.1
+14:43:58:503 [debug] [Thread 13] Client 3 is disconnecting because of read loop exception: Connection reset by the client
+14:43:58:522 [debug] [Thread 16] Client 2 is disconnecting because of read loop exception: Connection reset by the client
+14:43:58:572 [debug] [Thread 11] Client 2 is disconnecting because of read loop exception: Connection reset by the client
+14:43:58:619 [info] [Thread 16] Client 2 disconnected from the ranch server
+14:43:58:621 [debug] [Thread 13] Client 3 disconnected from the lobby server
+14:43:58:622 [info] [Thread 8] User 'test' (client 3) logged out
+14:45:03:025 [debug] [Thread 1] Shutting down because of SIGTERM
+14:45:03:026 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+14:45:03:037 [debug] [Thread 1] Thread for 'race director' finished
+14:45:03:037 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+14:45:03:040 [debug] [Thread 1] Thread for 'ranch director' finished
+14:45:03:040 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+14:45:03:040 [debug] [Thread 1] Thread for 'messenger director' finished
+14:45:03:040 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+14:45:03:041 [debug] [Thread 1] Thread for 'lobby director' finished
+14:45:03:041 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+14:45:03:074 [debug] [Thread 1] Thread for 'data director' finished
