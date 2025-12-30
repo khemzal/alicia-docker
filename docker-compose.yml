@@ -1,6 +1,6 @@
 services:
  instance:
-   image: 'ghcr.io/story-of-alicia/alicia-server:pr-168'
+   image: 'ghcr.io/khemzal/alicia-server:breed'
    #build: 'C:/Users/x/alicia-server'
    restart: unless-stopped
    ports:
