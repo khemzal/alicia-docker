@@ -1,0 +1,68 @@
+{
+  "appearance": {
+    "emblemId": 1034,
+    "headSize": 5,
+    "height": 5,
+    "legVolume": 5,
+    "thighVolume": 5,
+    "voiceId": 4
+  },
+  "breedingMoneySpent": 0,
+  "carrots": 995270,
+  "cash": 0,
+  "characterEquipment": [],
+  "eggs": [],
+  "gifts": [],
+  "guildUid": 0,
+  "horseSlotCount": 10,
+  "horses": [
+    2,
+    3
+  ],
+  "housing": [],
+  "introduction": "",
+  "inventory": [
+    4,
+    5
+  ],
+  "isRanchLocked": false,
+  "level": 60,
+  "mountEquipment": [],
+  "mountUid": 1,
+  "name": "Justice",
+  "parts": {
+    "faceId": 0,
+    "modelId": 20,
+    "mouthId": 0
+  },
+  "petUid": 0,
+  "pets": [],
+  "purchases": [],
+  "role": 2,
+  "settingsUid": 0,
+  "skills": {
+    "magic": {
+      "activeSetId": 0,
+      "set1": {
+        "slot1": 0,
+        "slot2": 0
+      },
+      "set2": {
+        "slot1": 0,
+        "slot2": 0
+      }
+    },
+    "speed": {
+      "activeSetId": 0,
+      "set1": {
+        "slot1": 0,
+        "slot2": 0
+      },
+      "set2": {
+        "slot1": 0,
+        "slot2": 0
+      }
+    }
+  },
+  "uid": 1
+}

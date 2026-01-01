@@ -1,0 +1,371 @@
+08:49:29:626 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:49:29:626 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:49:29:702 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:49:29:799 [info] [Thread 1] Item registry loaded 745 items
+08:49:29:822 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:49:29:824 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:49:29:824 [info] [Thread 1] Server started up in 199ms
+08:49:29:824 [info] [Thread 1] TTY not available
+08:49:29:824 [info] [Thread 1] Not running in an interactive mode
+08:49:29:824 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+08:49:29:827 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:49:29:827 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:49:29:827 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:49:29:827 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:49:29:832 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:49:29:853 [info] [Thread 10] Loaded 0 stallion(s) from the data source
+08:49:57:450 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+08:49:57:492 [info] [Thread 8] Load for data of user 'test' requested
+08:49:57:536 [info] [Thread 8] Load for character data of user 'test' requested
+08:49:57:613 [debug] [Thread 8] User 'test' succeeded in authentication
+08:49:57:614 [info] [Thread 8] User 'test' (client 0) logged in
+08:50:04:942 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+08:50:21:566 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:50:21:566 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:50:21:566 [debug] [Thread 11] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:50:21:566 [info] [Thread 16] Client 0 disconnected from the ranch server
+08:50:21:566 [debug] [Thread 15] Client 0 disconnected from the lobby server
+08:50:21:567 [info] [Thread 8] User 'test' (client 0) logged out
+08:50:22:315 [debug] [Thread 1] Shutting down because of SIGTERM
+08:50:22:315 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:50:22:332 [debug] [Thread 1] Thread for 'race director' finished
+08:50:22:332 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:50:22:333 [debug] [Thread 1] Thread for 'ranch director' finished
+08:50:22:333 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:50:22:333 [debug] [Thread 1] Thread for 'messenger director' finished
+08:50:22:333 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:50:22:333 [debug] [Thread 1] Thread for 'lobby director' finished
+08:50:22:333 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:50:22:362 [debug] [Thread 1] Thread for 'data director' finished
+08:50:57:242 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:50:57:242 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:50:57:321 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:50:57:414 [info] [Thread 1] Item registry loaded 745 items
+08:50:57:433 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:50:57:436 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:50:57:437 [info] [Thread 1] Server started up in 195ms
+08:50:57:437 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+08:50:57:437 [info] [Thread 1] TTY not available
+08:50:57:437 [info] [Thread 1] Not running in an interactive mode
+08:50:57:438 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:50:57:438 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:50:57:438 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:50:57:438 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:50:57:442 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:50:57:462 [info] [Thread 10] Loaded 0 stallion(s) from the data source
+08:51:06:297 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+08:51:06:341 [info] [Thread 8] Load for data of user 'test' requested
+08:51:06:383 [info] [Thread 8] Load for character data of user 'test' requested
+08:51:06:452 [debug] [Thread 8] User 'test' succeeded in authentication
+08:51:06:453 [info] [Thread 8] User 'test' (client 0) logged in
+08:51:14:661 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+08:52:51:947 [debug] [Thread 16] [Justice's ranch] test (Justice): //give horse)
+08:52:55:057 [debug] [Thread 16] [Justice's ranch] test (Justice): //give horse
+08:53:04:804 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:53:04:804 [debug] [Thread 12] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:53:04:804 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:53:04:804 [debug] [Thread 15] Client 0 disconnected from the lobby server
+08:53:04:804 [info] [Thread 8] User 'test' (client 0) logged out
+08:53:04:805 [info] [Thread 16] Client 0 disconnected from the ranch server
+08:53:10:237 [debug] [Thread 15] Client 1 connected to the lobby server from 172.18.0.1
+08:53:10:300 [debug] [Thread 8] User 'test' succeeded in authentication
+08:53:10:300 [info] [Thread 8] User 'test' (client 1) logged in
+08:53:18:122 [debug] [Thread 16] Client 1 connected to the ranch server from 172.18.0.1
+08:53:25:353 [info] [Thread 16] User 'test' changed the name of a horse (3) from '' to 'novykonik'
+08:54:21:626 [debug] [Thread 15] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+08:54:21:626 [debug] [Thread 12] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+08:54:21:626 [debug] [Thread 16] Client 1 is disconnecting because of read loop exception: Connection reset by the client
+08:54:21:627 [info] [Thread 16] Client 1 disconnected from the ranch server
+08:54:21:627 [debug] [Thread 15] Client 1 disconnected from the lobby server
+08:54:21:627 [info] [Thread 8] User 'test' (client 1) logged out
+08:54:25:541 [debug] [Thread 1] Shutting down because of SIGTERM
+08:54:25:541 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:54:25:556 [debug] [Thread 1] Thread for 'race director' finished
+08:54:25:556 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:54:25:556 [debug] [Thread 1] Thread for 'ranch director' finished
+08:54:25:556 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:54:25:556 [debug] [Thread 1] Thread for 'messenger director' finished
+08:54:25:556 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:54:25:556 [debug] [Thread 1] Thread for 'lobby director' finished
+08:54:25:556 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:54:25:649 [debug] [Thread 1] Thread for 'data director' finished
+08:54:51:297 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:54:51:298 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:54:51:381 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:54:51:481 [info] [Thread 1] Item registry loaded 745 items
+08:54:51:507 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:54:51:509 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:54:51:511 [info] [Thread 1] Server started up in 224ms
+08:54:51:511 [info] [Thread 1] TTY not available
+08:54:51:511 [info] [Thread 1] Not running in an interactive mode
+08:54:51:511 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+08:54:51:512 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:54:51:512 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:54:51:512 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:54:51:512 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:54:51:513 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:54:51:553 [info] [Thread 10] Loaded 0 stallion(s) from the data source
+08:54:58:786 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+08:54:58:843 [info] [Thread 8] Load for data of user 'test' requested
+08:54:58:886 [info] [Thread 8] Load for character data of user 'test' requested
+08:54:58:950 [debug] [Thread 8] User 'test' succeeded in authentication
+08:54:58:950 [info] [Thread 8] User 'test' (client 0) logged in
+08:55:07:734 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+08:55:50:986 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:55:50:986 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:55:50:986 [debug] [Thread 11] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:55:50:986 [info] [Thread 16] Client 0 disconnected from the ranch server
+08:55:50:986 [debug] [Thread 15] Client 0 disconnected from the lobby server
+08:55:51:004 [info] [Thread 8] User 'test' (client 0) logged out
+08:55:52:987 [debug] [Thread 1] Shutting down because of SIGTERM
+08:55:52:987 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:55:52:999 [error] [Thread 14] Error in the server accept loop: Network exception 0x125
+08:55:52:999 [debug] [Thread 1] Thread for 'race director' finished
+08:55:52:999 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:55:53:000 [debug] [Thread 1] Thread for 'ranch director' finished
+08:55:53:000 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:55:53:000 [debug] [Thread 1] Thread for 'messenger director' finished
+08:55:53:000 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:55:53:000 [debug] [Thread 1] Thread for 'lobby director' finished
+08:55:53:000 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:55:53:020 [debug] [Thread 1] Thread for 'data director' finished
+08:56:03:744 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:56:03:744 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:56:03:824 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:56:03:909 [info] [Thread 1] Item registry loaded 745 items
+08:56:03:938 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:56:03:940 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:56:03:942 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:56:03:942 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:56:03:942 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:56:03:942 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:56:03:942 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+08:56:03:943 [info] [Thread 1] Server started up in 199ms
+08:56:03:943 [info] [Thread 1] TTY not available
+08:56:03:943 [info] [Thread 1] Not running in an interactive mode
+08:56:03:946 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:56:03:967 [info] [Thread 10] Loaded 0 stallion(s) from the data source
+08:56:11:452 [debug] [Thread 12] Client 0 connected to the lobby server from 172.18.0.1
+08:56:11:495 [info] [Thread 8] Load for data of user 'test' requested
+08:56:11:538 [info] [Thread 8] Load for character data of user 'test' requested
+08:56:11:609 [debug] [Thread 8] User 'test' succeeded in authentication
+08:56:11:609 [info] [Thread 8] User 'test' (client 0) logged in
+08:56:19:182 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+08:56:33:439 [debug] [Thread 16] SearchStallion: unk0=1, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:33:439 [debug] [Thread 16] Registered stallions count: 0
+08:56:33:439 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:33:448 [debug] [Thread 16] SearchStallion: unk0=1, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:33:448 [debug] [Thread 16] Registered stallions count: 0
+08:56:33:448 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:33:475 [debug] [Thread 16] SearchStallion: unk0=1, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:33:475 [debug] [Thread 16] Registered stallions count: 0
+08:56:33:475 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:33:516 [debug] [Thread 16] SearchStallion: unk0=0, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:33:516 [debug] [Thread 16] Registered stallions count: 0
+08:56:33:516 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:33:516 [info] [Thread 16] BreedingFailureCard: statusOrFlag is this aa = 0
+08:56:33:657 [debug] [Thread 16] SearchStallion: unk0=0, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:33:657 [debug] [Thread 16] Registered stallions count: 0
+08:56:33:657 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:34:513 [info] [Thread 16] BreedingFailureCardChoose: statusOrFlag xdd = is this 0
+08:56:34:513 [info] [Thread 16] BreedingFailureCard: NORMAL (RED) CARD (Grade 0)! MoneySpent: 0, GradeRoll: 20, RewardId 13, gave 150 carrots + item 40002 x2
+08:56:38:717 [debug] [Thread 16] SearchStallion: unk0=0, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:38:717 [debug] [Thread 16] Registered stallions count: 0
+08:56:38:717 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:40:163 [debug] [Thread 16] SearchStallion: unk0=1, flags=[8,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:40:163 [debug] [Thread 16] Registered stallions count: 0
+08:56:40:163 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:42:265 [debug] [Thread 16] SearchStallion: unk0=1, flags=[8,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:42:265 [debug] [Thread 16] Registered stallions count: 0
+08:56:42:265 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:43:174 [debug] [Thread 16] SearchStallion: unk0=1, flags=[8,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:56:43:174 [debug] [Thread 16] Registered stallions count: 0
+08:56:43:174 [debug] [Thread 16] SearchStallion: Found 0 stallions
+08:56:45:880 [info] [Thread 16] RegisterStallion: horseUid=3, breedingCharge=10000
+08:56:45:881 [info] [Thread 16] RegisterStallion: Successfully registered horse 3 as stallion 2
+08:56:57:716 [debug] [Thread 12] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:56:57:716 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:56:57:716 [debug] [Thread 13] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:56:57:716 [info] [Thread 16] Client 0 disconnected from the ranch server
+08:56:57:716 [debug] [Thread 12] Client 0 disconnected from the lobby server
+08:56:57:717 [info] [Thread 8] User 'test' (client 0) logged out
+08:56:58:911 [debug] [Thread 1] Shutting down because of SIGTERM
+08:56:58:911 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:56:58:926 [debug] [Thread 1] Thread for 'race director' finished
+08:56:58:926 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:56:58:926 [debug] [Thread 1] Thread for 'ranch director' finished
+08:56:58:927 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:56:58:927 [debug] [Thread 1] Thread for 'messenger director' finished
+08:56:58:927 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:56:58:927 [debug] [Thread 1] Thread for 'lobby director' finished
+08:56:58:927 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:56:58:955 [debug] [Thread 1] Thread for 'data director' finished
+08:57:07:077 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:57:07:077 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:57:07:153 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:57:07:251 [info] [Thread 1] Item registry loaded 745 items
+08:57:07:267 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:57:07:269 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:57:07:269 [info] [Thread 1] Server started up in 193ms
+08:57:07:269 [info] [Thread 1] TTY not available
+08:57:07:269 [info] [Thread 1] Not running in an interactive mode
+08:57:07:269 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+08:57:07:271 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:57:07:271 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:57:07:271 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:57:07:271 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:57:07:276 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:57:07:296 [info] [Thread 10] Loaded 1 stallion(s) from the data source
+08:57:18:197 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+08:57:18:238 [info] [Thread 8] Load for data of user 'test' requested
+08:57:18:269 [info] [Thread 8] Load for character data of user 'test' requested
+08:57:18:341 [debug] [Thread 8] User 'test' succeeded in authentication
+08:57:18:343 [info] [Thread 8] User 'test' (client 0) logged in
+08:57:25:525 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+08:57:30:617 [debug] [Thread 16] SearchStallion: unk0=1, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:57:30:617 [debug] [Thread 16] Registered stallions count: 1
+08:57:30:617 [debug] [Thread 16] Processing stallion horseUid: 3
+08:57:30:617 [debug] [Thread 16] Successfully retrieved cached data for stallion
+08:57:30:617 [debug] [Thread 16] SearchStallion: Found 1 stallions
+08:57:30:626 [debug] [Thread 16] SearchStallion: unk0=1, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:57:30:627 [debug] [Thread 16] Registered stallions count: 1
+08:57:30:627 [debug] [Thread 16] Processing stallion horseUid: 3
+08:57:30:627 [debug] [Thread 16] Successfully retrieved cached data for stallion
+08:57:30:627 [debug] [Thread 16] SearchStallion: Found 1 stallions
+08:57:30:651 [debug] [Thread 16] SearchStallion: unk0=1, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:57:30:651 [debug] [Thread 16] Registered stallions count: 1
+08:57:30:651 [debug] [Thread 16] Processing stallion horseUid: 3
+08:57:30:651 [debug] [Thread 16] Successfully retrieved cached data for stallion
+08:57:30:651 [debug] [Thread 16] SearchStallion: Found 1 stallions
+08:57:30:693 [debug] [Thread 16] SearchStallion: unk0=0, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:57:30:693 [debug] [Thread 16] Registered stallions count: 1
+08:57:30:693 [debug] [Thread 16] Processing stallion horseUid: 3
+08:57:30:693 [debug] [Thread 16] Successfully retrieved cached data for stallion
+08:57:30:693 [debug] [Thread 16] SearchStallion: Found 1 stallions
+08:57:30:693 [info] [Thread 16] BreedingFailureCard: statusOrFlag is this aa = 0
+08:57:30:847 [debug] [Thread 16] SearchStallion: unk0=0, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:57:30:847 [debug] [Thread 16] Registered stallions count: 1
+08:57:30:847 [debug] [Thread 16] Processing stallion horseUid: 3
+08:57:30:847 [debug] [Thread 16] Successfully retrieved cached data for stallion
+08:57:30:847 [debug] [Thread 16] SearchStallion: Found 1 stallions
+08:57:31:648 [info] [Thread 16] BreedingFailureCardChoose: statusOrFlag xdd = is this 0
+08:57:31:648 [info] [Thread 16] BreedingFailureCard: NORMAL (RED) CARD (Grade 0)! MoneySpent: 0, GradeRoll: 33, RewardId 3, gave 120 carrots + item 45001 x1
+08:57:35:835 [debug] [Thread 16] SearchStallion: unk0=0, flags=[4,1,3,251,2,4,255,255], filterLists=[0,0,0], unk10=0
+08:57:35:835 [debug] [Thread 16] Registered stallions count: 1
+08:57:35:835 [debug] [Thread 16] Processing stallion horseUid: 3
+08:57:35:835 [debug] [Thread 16] Successfully retrieved cached data for stallion
+08:57:35:836 [debug] [Thread 16] SearchStallion: Found 1 stallions
+08:57:46:497 [debug] [Thread 12] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:57:46:497 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:57:46:497 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:57:46:497 [info] [Thread 16] Client 0 disconnected from the ranch server
+08:57:46:497 [debug] [Thread 15] Client 0 disconnected from the lobby server
+08:57:46:499 [info] [Thread 8] User 'test' (client 0) logged out
+08:57:50:195 [debug] [Thread 1] Shutting down because of SIGTERM
+08:57:50:195 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:57:50:205 [error] [Thread 16] Error in the server accept loop: Network exception 0x125
+08:57:50:205 [debug] [Thread 1] Thread for 'race director' finished
+08:57:50:205 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:57:50:206 [debug] [Thread 1] Thread for 'ranch director' finished
+08:57:50:206 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:57:50:206 [debug] [Thread 1] Thread for 'messenger director' finished
+08:57:50:206 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:57:50:206 [debug] [Thread 1] Thread for 'lobby director' finished
+08:57:50:206 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:57:50:246 [debug] [Thread 1] Thread for 'data director' finished
+08:58:07:464 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:58:07:464 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:58:07:533 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:58:07:614 [info] [Thread 1] Item registry loaded 745 items
+08:58:07:637 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:58:07:640 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:58:07:642 [info] [Thread 1] Server started up in 178ms
+08:58:07:642 [debug] [Thread 12] Race server listening on 0.0.0.0:10032
+08:58:07:642 [info] [Thread 1] TTY not available
+08:58:07:642 [info] [Thread 1] Not running in an interactive mode
+08:58:07:643 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:58:07:643 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:58:07:643 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:58:07:643 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:58:07:645 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:58:07:686 [info] [Thread 10] Loaded 0 stallion(s) from the data source
+08:58:16:815 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+08:58:16:872 [info] [Thread 8] Load for data of user 'test' requested
+08:58:16:924 [info] [Thread 8] Load for character data of user 'test' requested
+08:58:26:927 [warning] [Thread 7] Timeout reached loading data for character '1'
+08:58:26:927 [error] [Thread 8] User character data for '0' not available
+08:58:49:433 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:58:49:433 [debug] [Thread 15] Client 0 disconnected from the lobby server
+08:59:00:334 [debug] [Thread 1] Shutting down because of SIGTERM
+08:59:00:334 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+08:59:00:337 [debug] [Thread 1] Thread for 'race director' finished
+08:59:00:337 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+08:59:00:341 [debug] [Thread 1] Thread for 'ranch director' finished
+08:59:00:341 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+08:59:00:346 [debug] [Thread 1] Thread for 'messenger director' finished
+08:59:00:346 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+08:59:00:346 [debug] [Thread 1] Thread for 'lobby director' finished
+08:59:00:346 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+08:59:00:384 [debug] [Thread 1] Thread for 'data director' finished
+08:59:14:349 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+08:59:14:349 [info] [Thread 1] Base directory: /var/lib/alicia-server
+08:59:14:464 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+08:59:14:633 [info] [Thread 1] Item registry loaded 745 items
+08:59:14:653 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+08:59:14:658 [info] [Thread 1] Server started up in 312ms
+08:59:14:658 [info] [Thread 1] TTY not available
+08:59:14:658 [info] [Thread 1] Not running in an interactive mode
+08:59:14:659 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+08:59:14:659 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+08:59:14:664 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+08:59:14:665 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+08:59:14:665 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+08:59:14:665 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+08:59:14:667 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+08:59:14:688 [info] [Thread 10] Loaded 1 stallion(s) from the data source
+08:59:24:336 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+08:59:24:376 [info] [Thread 8] Load for data of user 'test' requested
+08:59:24:409 [info] [Thread 8] Load for character data of user 'test' requested
+08:59:24:527 [debug] [Thread 8] User 'test' succeeded in authentication
+08:59:24:528 [info] [Thread 8] User 'test' (client 0) logged in
+08:59:35:202 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+08:59:35:202 [debug] [Thread 15] Client 0 disconnected from the lobby server
+08:59:35:207 [info] [Thread 8] User 'test' (client 0) logged out
+09:00:35:248 [debug] [Thread 1] Shutting down because of SIGTERM
+09:00:35:248 [debug] [Thread 1] Waiting for the 'race director' thread to finish...
+09:00:35:265 [debug] [Thread 1] Thread for 'race director' finished
+09:00:35:265 [debug] [Thread 1] Waiting for the 'ranch director' thread to finish...
+09:00:35:266 [debug] [Thread 1] Thread for 'ranch director' finished
+09:00:35:266 [debug] [Thread 1] Waiting for the 'messenger director' thread to finish...
+09:00:35:267 [error] [Thread 12] Error in the server accept loop: Network exception 0x125
+09:00:35:267 [debug] [Thread 1] Thread for 'messenger director' finished
+09:00:35:267 [debug] [Thread 1] Waiting for the 'lobby director' thread to finish...
+09:00:35:267 [debug] [Thread 1] Thread for 'lobby director' finished
+09:00:35:267 [debug] [Thread 1] Waiting for the 'data director' thread to finish...
+09:00:35:321 [debug] [Thread 1] Thread for 'data director' finished
+09:01:11:687 [info] [Thread 1] Running dedicated Alicia server v29c67de (rev: 29c67de).
+09:01:11:687 [info] [Thread 1] Base directory: /var/lib/alicia-server
+09:01:11:756 [info] [Thread 1] Course registry loaded 3 game modes, 55 maps and 0 deck items
+09:01:11:848 [info] [Thread 1] Item registry loaded 745 items
+09:01:11:875 [info] [Thread 1] Pet registry loaded 157 pets and 20 eggs
+09:01:11:878 [debug] [Thread 9] Messenger server listening on 0.0.0.0:10033
+09:01:11:878 [info] [Thread 1] Server started up in 193ms
+09:01:11:878 [info] [Thread 1] TTY not available
+09:01:11:878 [info] [Thread 1] Not running in an interactive mode
+09:01:11:878 [debug] [Thread 11] Race server listening on 0.0.0.0:10032
+09:01:11:883 [debug] [Thread 8] Lobby is advertising ranch server on 127.0.0.1:10031
+09:01:11:883 [debug] [Thread 8] Lobby is advertising race server on 127.0.0.1:10032
+09:01:11:883 [debug] [Thread 8] Lobby is advertising messenger server on 127.0.0.1:10033
+09:01:11:883 [debug] [Thread 8] Lobby server listening on 0.0.0.0:10030
+09:01:11:889 [debug] [Thread 10] Ranch server listening on 0.0.0.0:10031
+09:01:11:910 [info] [Thread 10] Loaded 1 stallion(s) from the data source
+09:01:22:616 [debug] [Thread 15] Client 0 connected to the lobby server from 172.18.0.1
+09:01:22:667 [info] [Thread 8] Load for data of user 'test' requested
+09:01:22:729 [info] [Thread 8] Load for character data of user 'test' requested
+09:01:22:847 [debug] [Thread 8] User 'test' succeeded in authentication
+09:01:22:848 [info] [Thread 8] User 'test' (client 0) logged in
+09:01:30:112 [debug] [Thread 16] Client 0 connected to the ranch server from 172.18.0.1
+09:01:52:706 [debug] [Thread 15] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+09:01:52:706 [debug] [Thread 12] Client 0 is disconnecting because of read loop exception: Connection reset by the client
+09:01:52:707 [debug] [Thread 15] Client 0 disconnected from the lobby server
+09:01:52:708 [debug] [Thread 16] Client 0 is disconnecting because of read loop exception: Connection reset by the client
